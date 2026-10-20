@@ -1,1 +1,1 @@
-A responsive cosmetics e-commerce website developed using PHP, MySQL, HTML, CSS, JavaScript, and Bootstrap. The project provides a user-friendly interface for browsing and searching cosmetic products, with backend database integration using PHP and MySQL
+# Beauty Cosmetic
